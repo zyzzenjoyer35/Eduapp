@@ -1,0 +1,19 @@
+• Rejestracja użytkowników: Aplikacja powinna umożliwiać użytkownikom rejestrację konta, dostarczając podstawowe informacje, takie jak adres e-mail, nazwa użytkownika i hasło.
+
+• Profil użytkownika: Po zalogowaniu użytkownicy powinni mieć dostęp do swojego profilu, gdzie mogą zobaczyć swoje osiągnięcia, postępy w nauce oraz personalizowane rekomendacje.
+
+• Zasoby edukacyjne: Aplikacja powinna zapewniać dostęp do różnorodnych zasobów edukacyjnych, takich jak lekcje wideo, interaktywne quizy, artykuły i ćwiczenia praktyczne.
+
+• Personalizacja doświadczenia nauki: System powinien dostarczać funkcjonalność personalizacji, pozwalając użytkownikom na wybór poziomu trudności, zainteresowań oraz dostosowywanie lekcji do ich indywidualnych potrzeb i celów edukacyjnych.
+
+• Śledzenie postępów: Aplikacja powinna śledzić postępy użytkowników w nauce i dostarczać im regularne raporty oraz statystyki, które pomagają zrozumieć ich osiągnięcia i obszary wymagające poprawy.
+
+• Interakcja społecznościowa: Użytkownicy powinni mieć możliwość interakcji z innymi uczniami poprzez forum dyskusyjne, grupy tematyczne oraz możliwość udostępniania osiągnięć i wiedzy.
+
+• Ocenianie i opinie: Aplikacja powinna umożliwiać użytkownikom ocenianie i pozostawianie opinii na temat zasobów edukacyjnych, co pomaga innym użytkownikom w wyborze odpowiednich materiałów.
+
+• Powiadomienia i przypomnienia: System powinien wysyłać użytkownikom powiadomienia o nadchodzących lekcjach, testach oraz przypomnienia o kontynuowaniu nauki w przypadku długich przerw.
+
+• Wsparcie wieloplatformowe: Aplikacja powinna być dostępna na różnych platformach, takich jak komputery stacjonarne, urządzenia mobilne i tablety, zapewniając spójne doświadczenie użytkownika na każdym urządzeniu.
+
+• Bezpieczeństwo danych: Wszelkie dane osobowe i postępy w nauce użytkowników powinny być przechowywane i przetwarzane zgodnie z najwyższymi standardami bezpieczeństwa danych, zapewniając prywatność i poufność informacji.
